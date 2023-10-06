@@ -13,7 +13,7 @@ def sum_of_all_elements(arr):
     return sum_var
 print(sum_of_all_elements([1,2,3,4,5]))
 
-# Find the number whether it is even or odd
+# Find the number whether it is even or odd and append in an array
 def even_odd(arr):
     even = []
     odd = []
