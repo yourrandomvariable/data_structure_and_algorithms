@@ -1,5 +1,4 @@
-# Data Structure Question's and Answer
-# Geeks for Geeks
+# Data Structure Question's and Answer -> Geeks for Geeks
 
 # Sum of Series
 def sum_of_series(arr):
@@ -14,7 +13,7 @@ def sum_of_all_elements(arr):
     return sum_var
 print(sum_of_all_elements([1,2,3,4,5]))
 
-# Find the number whether it is even or ordd
+# Find the number whether it is even or odd
 def even_odd(arr):
     even = []
     odd = []
